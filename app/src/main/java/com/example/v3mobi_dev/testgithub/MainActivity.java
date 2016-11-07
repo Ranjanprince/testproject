@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Log.d("test", "test");
+        Log.d("test","test");
     }
 
     @Override
